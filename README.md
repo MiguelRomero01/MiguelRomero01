@@ -36,7 +36,7 @@
 ### 👉 Software & Tools
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,git,linux,js,ts" />
+    <img src="https://skillicons.dev/icons?i=vscode,git,linux" />
     <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?logo=Jupyter&logoColor=white"></a>
   </a>
 </p>
